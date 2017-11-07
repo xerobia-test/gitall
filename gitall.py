@@ -39,3 +39,5 @@ except CalledProcessError as error:
     print "please ensure that you are running this from the dir that contains the appropriate git"
 print ""
 print "Finished Execution (in {} secs)".format(time.time() - current_time)
+
+#testing for hithub middleman
